@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos .card{
+  min-height: 465px;
+}
+
 /* Contacto */
 
 #Contacto form label {
